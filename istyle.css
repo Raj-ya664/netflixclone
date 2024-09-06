@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+
+
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.925);
+    font-family: "Ubuntu", sans-serif;
+}
+
+.logo{
+    display: flex;
+    height: 80px;
+
+}
+
+#option{
+    margin-left: 76%;
+    background: transparent;
+    color:aliceblue;
+    font-weight: bolder;
+    height: 40px;
+    border-radius: 8px ;
+    width: 70px;
+
+
+}
+#btn{
+     height:40px;
+     background-color: red;
+     color: beige;
+     width: 120px;
+margin-left: 10px;
+border-radius: 8px ;
+font-weight: bolder;
+
+
+}
+
+.hero{
+    height:800px ;
+    background-color: brown;
+    background-image: url(background.jpg);
+    opacity: 0.66;
+    background-size: cover;
+    
+
+}
+
+h1{
+    color: rgb(248, 248, 237);
+    text-align: center;
+    padding-top: 300px;
+    font-weight: bolder;
+    font-size: 67px;
+}
+
+p{
+    color: white;
+    padding-top: 20px;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+}
+
+#in{
+    height: 80px;
+    width: 300px;
+    font-size: large;
+    margin-left: 450px;
+    border-radius: 8px ;
+    border:  2px solid bisque;
+    background: transparent;
+    font-size: 20px;
+    color: antiquewhite;
+
+}
+
+#bbt{
+    height: 80px;
+    width: 290px;
+    background-color: red;
+    color :aliceblue;
+    margin-left: 18px;
+    border-radius: 8px;
+    font-weight: bolder;
+    font-size: 20px;
+    border: none;
+
+}
